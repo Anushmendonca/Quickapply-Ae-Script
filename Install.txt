@@ -1,0 +1,47 @@
+==================================================
+REQUIREMENTS
+--------------------------------------------------
+- Adobe After Effects
+- Supports ScriptUI panel workflow
+- Compatible with versions of After Effects that support ExtendScript and .ffx preset application
+
+==================================================
+INSTALLATION
+--------------------------------------------------
+1. Copy the script file into your After Effects ScriptUI Panels folder.
+
+Typical location:
+Windows:
+Adobe After Effects\Support Files\Scripts\ScriptUI Panels\
+
+Mac:
+Applications/Adobe After Effects/Scripts/ScriptUI Panels/
+
+2. Restart After Effects.
+
+3. Open the script from:
+Window > Quickapply
+
+
+==================================================
+HOW TO USE
+--------------------------------------------------
+
+APPLY PRESET
+--------------------------------------------------
+1. Open a composition
+2. Select one or more layers
+3. Click "Browse" and choose an animation preset (.ffx)
+4. Choose one of the timing options:
+   - Apply at layer In Point
+   - Apply at comp time 0
+5. Enable or disable "Only apply to text layers" depending on your needs
+6. Click "Apply Preset"
+
+UNPRECOMPOSE
+--------------------------------------------------
+1. Open a composition
+2. Select one or more precomp layers
+3. Click "UnPrecompose"
+
+The script will search inside each selected precomp, copy text layers back into the active composition, and remove the selected precomp layer if text layers were successfully extracted.
