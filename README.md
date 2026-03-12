@@ -25,4 +25,4 @@ After Effects > Scripts > ScriptUI Panels
 Window → Quickapply
 
 ## Author
-WRATH
+WRATH/Anush Mendonca
