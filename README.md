@@ -20,9 +20,7 @@ Official release on aescripts:
 After Effects > Scripts > ScriptUI Panels
 
 3. Restart After Effects
-4. Open via:
-
-Window → Quickapply
+4. Open via: Window → Quickapply
 
 ## Author
 WRATH/Anush Mendonca
